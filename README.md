@@ -15,7 +15,9 @@ With predictive modelling, there is an opportunity to identify common variables 
 #### Key Takeaway:
 The key takeaways from this project would be to identify which variables (physical activity, diet, or social connection), have a high correlation with an accident like a fall occurring. 
 
-### Demo
+### Data Dictionary
+
+
 
 #### Data Visualization
 
@@ -32,43 +34,6 @@ We can see a negative correlation with age and grip strength. Grip strength will
 
 ![Screenshot 2024-06-01 at 9 29 08 AM](https://github.com/timpengg/bstn_capstone_Apr2024/assets/124457182/c2fc3fa9-7ee7-4d5d-a6bd-88fad1a0d3b2)
 
-### Organization
-
-#### Repository 
-
-* `data`
-  
-https://drive.google.com/drive/folders/1egZ4YCGwGGWB89Tk81Mo11M5_WP3i3di?usp=drive_link
-
-* `model`
- --TBD--
-    - `joblib` dump of final model(s)
-
-* `notebooks`
-    - contains all final notebooks involved in the project
-
-* `docs` --TBD--
-    - contains final report, presentations which summarize the project
-
-* `references` --TBD--
-    - contains papers / tutorials used in the project
-
-* `src` --TBD--
-    - Contains the project source code (refactored from the notebooks)
-
-* `.gitignore` --TBD--
-    - Part of Git, includes files and folders to be ignored by Git version control
-
-* `conda.yml` 
-          conda version : 24.1.2 
-    conda-build version : 24.1.2 
-         python version : 3.11.7.final.0
-
-* `README.md`
-    - Project landing page (this page)
-
-* `LICENSE`
-    - Project license
 
 #### Datasets
 
