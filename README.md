@@ -48,10 +48,11 @@ We can see a negative correlation with age and grip strength. Grip strength will
 ![grip_vs_fall](https://github.com/timpengg/bstn_capstone_Apr2024/assets/124457182/e677acf4-2632-4625-993f-fd765c5c8a37)
 
 
-### Methodology
+### Baseline Models
 
-![Screenshot 2024-06-01 at 9 29 08 AM](https://github.com/timpengg/bstn_capstone_Apr2024/assets/124457182/c2fc3fa9-7ee7-4d5d-a6bd-88fad1a0d3b2)
+Fitting a baseline logistic regression model yielded an accuracy of 78% and an F1 score of 69%. The model was trained on independant variables of `grip_l1`, `has_near_fall`, `health_rating`, and `walking_difficulty` columns. Our target variable was `has_fallen`. 
 
+Fitting a random forest classifier yielded an accuracy of 78% (using 20 n estimators) and an F1 score of 67%.
 
 #### Datasets
 
