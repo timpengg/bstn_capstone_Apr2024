@@ -17,7 +17,25 @@ The key takeaways from this project would be to identify which variables (physic
 
 ### Data Dictionary
 
-
+Column | Description
+----------|------------
+label | Gait-stabilizing device users; 0 = Not gait-stabilizing device users
+age | Participant's age
+sex | 1 = Male; 0 = Female
+grip_r1 | Right hand grip measured with handgrip dynamometer
+grip_l1 | Left hand grip measured with handgrip dynamometer
+health_rating | Participant's own assesment of their health on 1-5 scale
+crouching_difficulty | Participant's own assesment of their crouching ability on 1-5 scale
+lifting_difficulty | Participant's own assesment of their lifting difficulty on 1-5 scale
+walking_difficulty | Participant's own assesment of their walking difficulty on 1-5 scale
+has_fallen | 1 = Yes; 0 = No
+has_near_fallen | 1 = Yes; 0 = No
+trial_1_eyes_closed_feet_apart_velocity_0_1 | balance test on wii balance board
+trial_1_eyes_closed_feet_apart_velocity_0_2 | balance test on wii balance board
+trial_1_eyes_closed_feet_apart_velocity_0_3 | balance test on wii balance board
+trial_2_eyes_open_feet_together_velocity_0_1 | balance test on wii balance board
+trial_2_eyes_open_feet_together_velocity_0_2 | balance test on wii balance board
+trial_2_eyes_open_feet_together_velocity_0_3 | balance test on wii balance board
 
 #### Data Visualization
 
