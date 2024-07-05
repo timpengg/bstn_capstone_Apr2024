@@ -41,6 +41,8 @@ trial_1_eyes_closed_feet_apart_velocity_0_3 | acceleration measurment on wii bal
 trial_2_eyes_open_feet_together_velocity_0_1 | acceleration measurment on wii balance board
 trial_2_eyes_open_feet_together_velocity_0_2 | acceleration measurment on wii balance board
 trial_2_eyes_open_feet_together_velocity_0_3 | acceleration measurment on wii balance board
+avg_grip_strength | Average of left and right hand grip measurements
+grip_difference | Absolute difference between left and right hand grip measurements
 
 #### Data Visualization
 
